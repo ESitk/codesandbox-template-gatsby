@@ -1,9 +1,8 @@
+const { PureComponent } = require("react");
+
 module.exports = {
     siteMetadata: {
-      title: `Gatsby Project`,
+      title: `Student First Online`,
         siteUrl: `https://www.studentFirst.online`,
-    },
-    plugins: [
-
-    ]
+    }   
 }
