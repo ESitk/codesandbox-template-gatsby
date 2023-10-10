@@ -58,7 +58,7 @@ const descriptionStyle = {
 
 const docLink = {
   text: "Welcome Guide",
-  url: "...src/pages/welcome.html",
+  url: "src/pages/welcome.html",
   color: "#8954A8",
 }
 
