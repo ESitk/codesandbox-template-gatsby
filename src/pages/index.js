@@ -12,7 +12,7 @@ const headingStyles = {
   maxWidth: 320,
 }
 const headingAccentStyles = {
-  color: "#663399",
+  color: "#FF8A34",
 }
 const paragraphStyles = {
   marginBottom: 48,
@@ -57,8 +57,8 @@ const descriptionStyle = {
 }
 
 const docLink = {
-  text: "Documentation",
-  url: "https://www.gatsbyjs.com/docs/",
+  text: "Welcome Guide",
+  url: "...src/pages/welcome.html",
   color: "#8954A8",
 }
 
@@ -131,11 +131,11 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Home Page</title>
       <h1 style={headingStyles}>
-        Congratulations
+        StudentFirst.Online
         <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
-        <span role="img" aria-label="Party popper emojis">
-          🎉🎉🎉
+        <span style={headingAccentStyles}>Resources, Lessons, & Education Blog </span>
+        <span role="img" aria-label="schoolhouse emojis">
+        🎓🎓🎓
         </span>
       </h1>
       <p style={paragraphStyles}>
